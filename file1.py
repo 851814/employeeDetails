@@ -1,6 +1,6 @@
 name="soumya"
 emp_id="101"
-salary=80000
+salary="80000"
 address="Hubli"
 print("Employee Details:")
 print("Employee Name:",name)
